@@ -1,0 +1,576 @@
+[
+  {
+    "ID": 1,
+    "Name": "Dumbbells",
+    "Category": "Dumbbells",
+    "Equipment Type": "Free Weights",
+    "Subcategory": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Barbells",
+    "Category": "Barbells",
+    "Equipment Type": "Free Weights",
+    "Subcategory": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Ez Bar",
+    "Category": "Barbells",
+    "Equipment Type": "Free Weights",
+    "Subcategory": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Trap Bar",
+    "Category": "Barbells",
+    "Equipment Type": "Free Weights",
+    "Subcategory": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Kettlebells",
+    "Category": "Kettlebells",
+    "Equipment Type": "Free Weights",
+    "Subcategory": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Medicine Ball",
+    "Category": "Medicine Balls",
+    "Equipment Type": "Free Weights",
+    "Subcategory": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Back Extension Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Glute Hame Raise Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Reverse Hyper Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Flat Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Barbell Flat Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Barbell Decline Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Decline Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Preacher Curl Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Leg Raise",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Incline Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 17,
+    "Name": "Barbell Incline Bench",
+    "Category": "Benches",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Dip Bar",
+    "Category": "Bars And Racks",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 19,
+    "Name": "Parallette Bars",
+    "Category": "Bars And Racks",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Pull Up Bar",
+    "Category": "Bars And Racks",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 21,
+    "Name": "Squat Rack",
+    "Category": "Bars And Racks",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Olympic Tricep Bar",
+    "Category": "Bars And Racks",
+    "Equipment Type": "Benches, Bars, And Racks",
+    "Subcategory": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Crossover Cable",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Lat Pulldown Cable",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Row Cable",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": ""
+  },
+  {
+    "ID": 26,
+    "Name": "Hi Lo Pulley Cable",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": ""
+  },
+  {
+    "ID": 27,
+    "Name": "Rope Cable",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 28,
+    "Name": "Tricep Pressdown Bar",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 29,
+    "Name": "V-Bar Revolving",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 30,
+    "Name": "V-Bar Ergo Grip",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 31,
+    "Name": "Multi Purpose Bar",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 32,
+    "Name": "D Grip",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 33,
+    "Name": "Straight Bar",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 34,
+    "Name": "Lat Bar",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 35,
+    "Name": "Seated Row / Chin Bar",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 36,
+    "Name": "Curl Bar",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 37,
+    "Name": "Ankle Cuff",
+    "Category": "Cable Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Attachments"
+  },
+  {
+    "ID": 38,
+    "Name": "Fly Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Misc"
+  },
+  {
+    "ID": 39,
+    "Name": "Hammer Strength Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Misc"
+  },
+  {
+    "ID": 40,
+    "Name": "Ab Crunch Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Misc"
+  },
+  {
+    "ID": 41,
+    "Name": "Freemotin Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Misc"
+  },
+  {
+    "ID": 42,
+    "Name": "Smith Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Misc"
+  },
+  {
+    "ID": 43,
+    "Name": "Assisted Weight Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Misc"
+  },
+  {
+    "ID": 44,
+    "Name": "Bicep Curl Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Back And Biceps"
+  },
+  {
+    "ID": 45,
+    "Name": "Row Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Back And Biceps"
+  },
+  {
+    "ID": 46,
+    "Name": "Back Extension Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Back And Biceps"
+  },
+  {
+    "ID": 47,
+    "Name": "Preacher Curl Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Back And Biceps"
+  },
+  {
+    "ID": 48,
+    "Name": "T Bar",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Back And Biceps"
+  },
+  {
+    "ID": 49,
+    "Name": "Bench Press Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Chest, Shoulders, And Triceps"
+  },
+  {
+    "ID": 50,
+    "Name": "Shoulder Shrug Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Chest, Shoulders, And Triceps"
+  },
+  {
+    "ID": 51,
+    "Name": "Shoulder Press Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Chest, Shoulders, And Triceps"
+  },
+  {
+    "ID": 52,
+    "Name": "Tricep Dip Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Chest, Shoulders, And Triceps"
+  },
+  {
+    "ID": 53,
+    "Name": "Calf Raise Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 54,
+    "Name": "Leg Curl Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 55,
+    "Name": "Leg Press",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 56,
+    "Name": "Hack Squat Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 57,
+    "Name": "Leg Extension Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 58,
+    "Name": "Squat Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 59,
+    "Name": "Thigh Abductor Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 60,
+    "Name": "Thigh Adductor Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 61,
+    "Name": "Tricep Extension Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 62,
+    "Name": "Leg Press Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 63,
+    "Name": "Glute Kickback Machine",
+    "Category": "Weight Machines",
+    "Equipment Type": "Machines",
+    "Subcategory": "Legs"
+  },
+  {
+    "ID": 64,
+    "Name": "Mini Loop Bands",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Bands"
+  },
+  {
+    "ID": 65,
+    "Name": "Power Loop Bands",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Bands"
+  },
+  {
+    "ID": 66,
+    "Name": "Box",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 67,
+    "Name": "Farmers Walk Handles",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 68,
+    "Name": "Stability Ball",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 69,
+    "Name": "Trx",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 70,
+    "Name": "Bosu Ball",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 71,
+    "Name": "Foam Roller",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 72,
+    "Name": "Pvc Pipe",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 73,
+    "Name": "Foam Roller",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 74,
+    "Name": "Cone",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 75,
+    "Name": "Rings",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 76,
+    "Name": "Sled",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 77,
+    "Name": "Tire",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 78,
+    "Name": "Yoke",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 79,
+    "Name": "Battle Ropes",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 80,
+    "Name": "Ab Wheel",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 81,
+    "Name": "Landmine",
+    "Category": "Bands",
+    "Equipment Type": "Bands And More",
+    "Subcategory": "Other"
+  },
+  {
+    "ID": 82,
+    "Name": "Mat",
+    "Category": "Other",
+    "Equipment Type": "Other",
+    "Subcategory": "Other"
+  }
+]

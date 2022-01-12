@@ -1,0 +1,1 @@
+export const WORKOUT_DAY_ENDPOINT = 'some endpoint';

@@ -1,0 +1,339 @@
+{
+  "equipment": [
+    {
+      "id": 1,
+      "Equipment_Name": "Crossover Cable",
+      "Equipment_Type": "Cable_Machines"
+    },
+    {
+      "id": 2,
+      "Equipment_Name": "Hi Lo Pulley Cable",
+      "Equipment_Type": "Cable_Machines"
+    },
+    {
+      "id": 3,
+      "Equipment_Name": "Lat Pulldown Cable",
+      "Equipment_Type": "Cable_Machines"
+    },
+    {
+      "id": 4,
+      "Equipment_Name": "Rope Cable",
+      "Equipment_Type": "Cable_Machines"
+    },
+    {
+      "id": 5,
+      "Equipment_Name": "Row Cable",
+      "Equipment_Type": "Cable_Machines"
+    },
+    {
+      "id": 6,
+      "Equipment_Name": "Bench Press Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 7,
+      "Equipment_Name": "Bicep Curl Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 8,
+      "Equipment_Name": "Calf Raise Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 9,
+      "Equipment_Name": "Fly Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 10,
+      "Equipment_Name": "Hack Squat Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 11,
+      "Equipment_Name": "Leg Curl Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 12,
+      "Equipment_Name": "Leg Extension Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 13,
+      "Equipment_Name": "Leg Press Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 14,
+      "Equipment_Name": "Preacher Curl Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 15,
+      "Equipment_Name": "Row Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 16,
+      "Equipment_Name": "Shoulder Press Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 17,
+      "Equipment_Name": "Shoulder Shrug Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 18,
+      "Equipment_Name": "Thigh Abductor Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 19,
+      "Equipment_Name": "Thigh Adductor Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 20,
+      "Equipment_Name": "Triceps Extension Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 21,
+      "Equipment_Name": "Freemotion Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 22,
+      "Equipment_Name": "Hammer Strength Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 23,
+      "Equipment_Name": "Smith Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 24,
+      "Equipment_Name": "Ab Crunch Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 25,
+      "Equipment_Name": "Back Extension Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 26,
+      "Equipment_Name": "Assisted Weight Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 27,
+      "Equipment_Name": "Tricep Dip Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 28,
+      "Equipment_Name": "Leg press",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 29,
+      "Equipment_Name": "Glute Kickback Machine",
+      "Equipment_Type": "Weight_Machines"
+    },
+    {
+      "id": 30,
+      "Equipment_Name": "Box",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 31,
+      "Equipment_Name": "Cone",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 32,
+      "Equipment_Name": "Farmers Walk Handles",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 33,
+      "Equipment_Name": "Medicine Ball",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 34,
+      "Equipment_Name": "rings",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 35,
+      "Equipment_Name": "Rop",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 36,
+      "Equipment_Name": "Sled",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 38,
+      "Equipment_Name": "T Bar",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 39,
+      "Equipment_Name": "Tire",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 40,
+      "Equipment_Name": "TRX",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 41,
+      "Equipment_Name": "Yoke",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 42,
+      "Equipment_Name": "Bosu Ball",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 43,
+      "Equipment_Name": "Battle Ropes",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 44,
+      "Equipment_Name": "Foam Roller",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 45,
+      "Equipment_Name": "Ab Wheel",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 46,
+      "Equipment_Name": "PVC Pipe",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 47,
+      "Equipment_Name": "LandMine",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 48,
+      "Equipment_Name": "Barbell",
+      "Equipment_Type": "Free_Weights"
+    },
+    {
+      "id": 49,
+      "Equipment_Name": "Dumbbells",
+      "Equipment_Type": "Free_Weights"
+    },
+    {
+      "id": 50,
+      "Equipment_Name": "EZ Bar",
+      "Equipment_Type": "Free_Weights"
+    },
+    {
+      "id": 51,
+      "Equipment_Name": "Kettlebells",
+      "Equipment_Type": "Free_Weights"
+    },
+    {
+      "id": 52,
+      "Equipment_Name": "Trap Bar",
+      "Equipment_Type": "Free_Weights"
+    },
+    {
+      "id": 53,
+      "Equipment_Name": "Back Extension Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 54,
+      "Equipment_Name": "Decline Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 55,
+      "Equipment_Name": "Glute Ham Raise Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 56,
+      "Equipment_Name": "Preacher Curl Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 57,
+      "Equipment_Name": "Reverse Hyper Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 58,
+      "Equipment_Name": "Vertical Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 59,
+      "Equipment_Name": "Dip Bar",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 60,
+      "Equipment_Name": "Parallette Bars",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 61,
+      "Equipment_Name": "Pull Up Bar",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 62,
+      "Equipment_Name": "Flat Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 63,
+      "Equipment_Name": "Incline Bench",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 64,
+      "Equipment_Name": "Squat Rack",
+      "Equipment_Type": "Racks_Bars_Benches"
+    },
+    {
+      "id": 65,
+      "Equipment_Name": "Bands",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 37,
+      "Equipment_Name": "Stability/Exercise Ball",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 66,
+      "Equipment_Name": "None",
+      "Equipment_Type": "Other"
+    },
+    {
+      "id": 67,
+      "Equipment_Name": "Other",
+      "Equipment_Type": "Other"
+    }
+  ]
+}

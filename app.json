@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "scheme": "myapp",
+    "owner": "sculp",
+    "slug": "Sculp",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.sculp.sculp",
+      "buildNumber": "0.0.5"
+    },
+    "android": {
+      "package": "com.sculp.sculp",
+      "versionCode": 9,
+      "permissions": [
+        "Vibration"
+      ]
+    },
+    "plugins": [
+      "sentry-expo"
+    ],
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "sculp",
+            "project": "sculp",
+            "authToken": "f5464b6d0d1f4b57bcc7f15e6d10a6e07320ac8994e14320ac28e19386220262"
+          }
+        }
+      ]
+    }
+  }
+}
